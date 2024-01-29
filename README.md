@@ -6,7 +6,7 @@
    ![Alt text](locally_test_passed.png)
 
 2. Remote test pass
-   ![Alt text](remotely_test_passed.png)
+   ![Alt text](remote_test_passed.png)
 
 ## Overview
 
